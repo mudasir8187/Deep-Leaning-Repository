@@ -1,4 +1,4 @@
-# Deep-Leaning-Repository
+# Deep-Learning-Repository
 In this repository you will find all the notebook files of Deep Learning Algorithms.
 
 # **Deep Learning**
